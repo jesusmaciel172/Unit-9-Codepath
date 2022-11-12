@@ -7,4 +7,5 @@ After creating the honeypot I put the IP address into a seperate window in order
 I got a succesful attack meaning the honeypot was working. 
 
 Step 1
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/109492858/201453092-c6ddffb1-b8a8-41f7-9a69-aa5ec7ffabf9.gif)
