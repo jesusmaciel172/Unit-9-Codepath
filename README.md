@@ -9,3 +9,20 @@ I got a succesful attack meaning the honeypot was working.
 Step 1
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/109492858/201453092-c6ddffb1-b8a8-41f7-9a69-aa5ec7ffabf9.gif)
+
+Step 2
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/109492858/201453253-6e8d32f2-bd5a-4a0f-b9db-922334776403.gif)
+
+Step 3
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/109492858/201453382-9a6f6381-3e96-492a-8e11-58310bbcdadc.gif)
+
+Step 4
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/109492858/201453570-6bd4f835-6317-4bb3-b005-b4ea6d641b00.gif)
+
+Step 5!
+[ezgif com-gif-maker](https://user-images.githubusercontent.com/109492858/201453938-1c957c09-8485-4689-bbf1-238068288356.gif)
+
+
